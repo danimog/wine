@@ -1,0 +1,4 @@
+baseurl: "/wine"
+
+markdown: kramdown 
+
